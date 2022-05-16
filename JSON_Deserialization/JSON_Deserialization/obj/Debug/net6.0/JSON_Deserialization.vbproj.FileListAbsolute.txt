@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\JSON_Deserialization.exe
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\JSON_Deserialization.deps.json
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\JSON_Deserialization.runtimeconfig.json
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\JSON_Deserialization.dll
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\JSON_Deserialization.pdb
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.vbproj.CopyComplete
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.dll
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\refint\JSON_Deserialization.dll
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.pdb
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\JSON_Deserialization.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\JSON_Deserialization\JSON_Deserialization\obj\Debug\net6.0\ref\JSON_Deserialization.dll
